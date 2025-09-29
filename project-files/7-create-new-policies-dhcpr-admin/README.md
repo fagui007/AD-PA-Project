@@ -147,3 +147,6 @@ We will be configuring **labadmin2** as an administrator on the firewall. Their 
 		![](../../screenshots/adpalab-268.png)
 9. Log out
 
+---
+### Next Part: [8. Domain Join Clients and Configure Decryption](../8-domain-join-config-decrypt/README.md)
+### Previous Part: [6. Deploy Two-Tier PKI](../6-deploy-two-tier-pki/README.md)
