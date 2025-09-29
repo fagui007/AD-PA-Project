@@ -43,7 +43,7 @@ This project demonstrates how NGFWs, directory services, and PKI can work togeth
 - PuTTY Installed (or your preferred terminal emulator/serial console)
 - ISO images: Windows Server 2025, Windows 11 Enterprise  
 - Palo Alto PA-440 NGFW (Factory Reset)
-- 3 Additional Ethernet interfaces (not including integrated Ethernet port)
+- 3 Additional Ethernet interfaces (not including integrated Ethernet port on Host PC)
 ---
 ## [Table of Contents](project-files/README.md)
 ---
