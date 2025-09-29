@@ -114,3 +114,7 @@
 		![](../../screenshots/adpalab-394.png)
 
 		![](../../screenshots/adpalab-395.png)
+
+---
+### Next Part: [Summary](../summary/README.md)
+### Previous Part: [9. Deploy Windows User-ID Agent](../9-deploy-windows-uid/README.md)
