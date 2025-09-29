@@ -15,7 +15,7 @@ The firewall will be used to segment the enterprise into three separate networks
 - **Servers** - Domain Controller, DNS/DHCP Servers, Root CA, Issuing CA, User-ID Agent
 - **Management** - Administrative access for firewall management
 
-Security policies will be implemented using **User-ID**, where access controls are based on Active Directory users and groups rather than just IP addresses. Additionally, a **two-tier PKI** (Root CA + Issuing CA) will be deployed to enable **SSL/TLS decryption** on the firewall, allowing inspection of encrypted traffic while maintaining secure communications.
+Security policies will use **User-ID** to create user- and group-based identity policies, making them more secure compared to just using IP addresses. Users and groups will be pulled from **Active Directory**, and IP user mappings will be pulled with the **Windows-based User-ID Agent**. Additionally, a **two-tier PKI** (Root CA + Issuing CA) will be deployed to enable **SSL/TLS decryption** on the firewall, allowing inspection of encrypted traffic while maintaining secure communications.
 
 This project demonstrates how NGFWs, directory services, and PKI can work together to provide **identity-based, encrypted traffic-aware security** in a segmented enterprise environment.
 
