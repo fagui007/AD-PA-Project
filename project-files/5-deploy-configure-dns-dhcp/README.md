@@ -131,3 +131,7 @@
 
 	*Note: The Server FQDN is not resolving yet because we need to create a security policy on the firewall to allow outbound traffic from our servers.*
 10. **OK**
+
+---
+### Next Part: [6. Deploy Two-Tier PKI](../6-deploy-two-tier-pki/README.md)
+### Previous Part: [4. Deploy and Configure Domain Controller](../4-deploy-configure-dc/README.md)
