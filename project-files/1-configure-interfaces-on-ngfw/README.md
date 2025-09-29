@@ -37,3 +37,7 @@ We’ll configure an interface that allows GUI access to the firewall using our 
 		![](../../screenshots/adpalab-386.png)
 	
 		![](../../screenshots/adpalab-384.png)
+
+---
+### Next Part: [2. Complete Network Configuration for NGFW (via GUI)](../2-complete-network-config-ngfw/README.md)
+### Previous Part: [0. Pre-lab Setup](../0-pre-lab-set-up/README.md)
