@@ -532,3 +532,6 @@
 
 ![](../../screenshots/adpalab-355.png)
 
+---
+### Next Part: [7. Create New Policies, DHCP Relay, and Administrators (via NGFW GUI)](../7-create-new-policies-dhcpr-admin/README.md)
+### Previous Part: [5. Deploy and Configure DNS and DHCP Server](../5-deploy-configure-dns-dhcp/README.md)
