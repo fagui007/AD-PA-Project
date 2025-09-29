@@ -8,3 +8,8 @@ This project demonstrated how an enterprise network can be securely segmented an
 - Testing confirmed that clients could authenticate, obtain IP/DNS settings via DHCP, receive certificates, and access resources according to security rules tied to their AD group memberships.  
 
 This environment provides a **realistic enterprise-grade lab** that demonstrates the integration of NGFWs with AD services and PKI. It can be further extended to include advanced topics such as VPNs, RADIUS/NPS integration, and endpoint security.
+
+---
+### Previous Part: [10. Configure Identity-Based Firewall Policies](../10-config-id-policies/README.md)
+### [Main Page](../../README.md)
+### [Table of Contents](../README.md)
