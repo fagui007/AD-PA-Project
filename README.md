@@ -1,6 +1,6 @@
-# Virtual Active Directory and Palo Alto NGFW Lab
+# Virtual Active Directory and Palo Alto NGFW Project
 
-## Lab Goals
+## Project Goals
 - Deploy **Active Directory** environment.
 - Segment an enterprise network into **Clients, Servers, and Management** zones using a **Palo Alto PA-440 NGFW**.
 - Deploy a **two-tier PKI** (Root CA + Issuing CA) to support **SSL/TLS decryption** on the firewall.
@@ -17,7 +17,7 @@ The firewall will be used to segment the enterprise into three separate networks
 
 Security policies will be implemented using **User-ID**, where access controls are based on Active Directory users and groups rather than just IP addresses. Additionally, a **two-tier PKI** (Root CA + Issuing CA) will be deployed to enable **SSL/TLS decryption** on the firewall, allowing inspection of encrypted traffic while maintaining secure communications.
 
-This lab demonstrates how NGFWs, directory services, and PKI can work together to provide **identity-based, encrypted traffic-aware security** in a segmented enterprise environment.
+This project demonstrates how NGFWs, directory services, and PKI can work together to provide **identity-based, encrypted traffic-aware security** in a segmented enterprise environment.
 
 ---
 ## Lab Topology
