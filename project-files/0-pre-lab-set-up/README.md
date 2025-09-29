@@ -52,3 +52,7 @@
 	- Ensure that network adapters are assigned to correct VMs:
 		- **Clients** → VMnet1
 		- **Servers** → VMnet2
+
+---
+### Next Part: [1. Configure Interfaces on NGFW (via CLI)](../1-configure-interfaces-on-ngfw/README.md)
+### Previous Part: [Table of Contents](../README.md)
