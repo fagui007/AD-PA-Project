@@ -1,3 +1,4 @@
+## Table of Contents
 ### [0. Pre-lab Setup](0-pre-lab-set-up/README.md)
 ##### [Host PC Ethernet Configuration](0-pre-lab-set-up/README.md#host-pc-ethernet-configuration)
 ##### [Workstation Configuration](0-pre-lab-set-up/README.md#workstation-configuration)
