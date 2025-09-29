@@ -1,5 +1,5 @@
 ### 2. Complete Network Configuration for NGFW (via GUI)
-1. From your **Host PC**, browse to **https:\//10.1.1.1**
+1. From your **Host PC**, browse to `https://10.1.1.1`
 2. **Log in via GUI** with administrator credentials.
 	
 	![](../../screenshots/adpalab-91.png)
@@ -97,3 +97,7 @@
 
 	![](../../screenshots/adpalab-36.png)
 	- **Commit**
+
+---
+### Next Part: [3. Configure Policies on NGFW (via GUI)](../3-configure-policies-ngfw/README.md)
+### Previous Part: [1. Configure Interfaces on NGFW (via CLI)](../1-configure-interfaces-on-ngfw/README.md)
