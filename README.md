@@ -46,7 +46,7 @@ This lab demonstrates how NGFWs, directory services, and PKI can work together t
 - 3 Additional Ethernet interfaces (not including integrated Ethernet port)
 ---
 ## Step-by-Step Lab Guide
-### ![0. Pre-lab Setup]()
+### ![0. Pre-lab Setup](project-files/pre-lab-setup.md)
 ##### Host PC Ethernet Configuration
 ##### Workstation Configuration
 ### 1. Configure Interfaces on NGFW (via CLI)
