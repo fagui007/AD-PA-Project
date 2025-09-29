@@ -60,4 +60,4 @@ This project demonstrates how NGFWs, directory services, and PKI can work togeth
 ### [9. Deploy Windows User-ID Agent](project-files/9-deploy-windows-uid/README.md)
 ### [10. Configure Identity-Based Firewall Policies](project-files/10-config-id-policies/README.md)
 ---
-### [Summary](project-files/summary/README.md)
+## [Summary](project-files/summary/README.md)
