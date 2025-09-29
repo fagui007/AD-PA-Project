@@ -1,1 +1,13 @@
-
+## Table of Contents
+### [0. Pre-lab Setup](project-files/0-pre-lab-set-up/README.md)
+### [1. Configure Interfaces on NGFW (via CLI)](project-files/1-configure-interfaces-on-ngfw/README.md)
+### [2. Complete Network Configuration for NGFW (via GUI)](project-files/2-complete-network-config-ngfw/README.md)
+### [3. Configure Policies on NGFW (via GUI)](project-files/3-configure-policies-ngfw/README.md)
+### [4. Deploy and Configure Domain Controller](project-files/4-deploy-configure-dc/README.md)
+### [5. Deploy and Configure DNS and DHCP Server](project-files/5-deploy-configure-dns-dhcp/README.md)
+### [6. Deploy Two-Tier PKI](project-files/6-deploy-two-tier-pki/README.md)
+### [7. Create New Policies, DHCP Relay, and Administrators (via NGFW GUI)](project-files/7-create-new-policies-dhcpr-admin/README.md)
+### [8. Domain Join Clients and Configure Decryption](project-files/8-domain-join-config-decrypt/README.md)
+### [9. Deploy Windows User-ID Agent](project-files/9-deploy-windows-uid/README.md)
+### [10. Configure Identity-Based Firewall Policies](project-files/10-config-id-policies/README.md)
+### [Summary](project-files/summary/README.md)
