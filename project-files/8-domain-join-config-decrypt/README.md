@@ -204,3 +204,6 @@ We'll be doing this portion through the Client VM because it will be easier to g
 	
 		![](../../screenshots/adpalab-326.png)
 
+---
+### Next Part: [9. Deploy Windows User-ID Agent](../9-deploy-windows-uid/README.md)
+### Previous Part: [7. Create New Policies, DHCP Relay, and Administrators (via NGFW GUI)](../7-create-new-policies-dhcpr-admin/README.md)
