@@ -48,7 +48,7 @@ This lab demonstrates how NGFWs, directory services, and PKI can work together t
 ## Step-by-Step Lab Guide
 ### [0. Pre-lab Setup](project-files/pre-lab-setup.md)
 ##### [Host PC Ethernet Configuration](project-files/pre-lab-setup.md#host-pc-ethernet-configuration)
-##### Workstation Configuration
+##### [Workstation Configuration](project-files/pre-lab-setup.md#workstation-configuration)
 ### 1. Configure Interfaces on NGFW (via CLI)
 ### 2. Complete Network Configuration for NGFW (via GUI)
 ### 3. Configure Policies on NGFW (via GUI)
