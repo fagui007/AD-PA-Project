@@ -176,3 +176,6 @@
 
 	![](../../screenshots/adpalab-55.png)
 
+---
+### Next Part: [5. Deploy and Configure DNS and DHCP Server](../5-deploy-configure-dns-dhcp/README.md)
+### Previous Part: [3. Configure Policies on NGFW (via GUI)](../3-configure-policies-ngfw/README.md)
