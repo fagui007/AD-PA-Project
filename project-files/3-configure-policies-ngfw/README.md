@@ -63,3 +63,7 @@
 **Configured Schedule**
 
 ![](../../screenshots/adpalab-387.png)
+
+---
+### Next Part: [4. Deploy and Configure Domain Controller](../4-deploy-configure-dc/README.md)
+### Previous Part: [2. Complete Network Configuration for NGFW (via GUI)](../2-complete-network-config-ngfw/README.md)
