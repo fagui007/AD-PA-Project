@@ -98,3 +98,6 @@
 
 		![](../../screenshots/adpalab-351.png)
 
+---
+### Next Part: [10. Configure Identity-Based Firewall Policies](../10-config-id-policies/README.md)
+### Previous Part: [8. Domain Join Clients and Configure Decryption](../8-domain-join-config-decrypt/README.md)
